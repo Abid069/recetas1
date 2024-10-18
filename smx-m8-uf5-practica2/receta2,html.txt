@@ -1,0 +1,81 @@
+ GNU nano 6.2                                                                                                                                  	receta2.html *                                                                                                                                        	 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Receta de Doi Fuchka</title>
+	<link rel="stylesheet" href="styles.css">
+	<style>
+    	/* Estilo interno para la receta Doi Fuchka */
+    	#entrantes {
+        	background-color: #fff;
+        	padding: 20px;
+        	border: 1px solid #ddd;
+        	margin-bottom: 20px;
+    	}
+
+    	h2 {
+        	color: #006400;
+        	font-weight: bold;
+    	}
+
+    	footer {
+        	background-color: #eee;
+        	padding: 10px;
+        	text-align: center;
+    	}
+	</style>
+</head>
+<body>
+	<main>
+    	<section id="entrantes">
+        	<h2>Doi Fuchka</h2>
+        	<img src="https://zatoichisushi.es/wp-content/uploads/2024/05/receta-de-doi-fuchka-bolitas-crujientes-con-yogur-y-especias.jpg">
+
+        	<article>
+            	<p>Este plato consiste en bolitas crujientes rellenas de una mezcla de yogur y especias, ofreciendo un contraste maravilloso de texturas y sabores. Es un aperitivo perfecto para disfrutar en reuniones familiares o con amigos.</p>
+            	<h4>Ingredientes para el Fuchka:</h4>
+            	<ul>
+                	<li>1 taza de sémola de trigo</li>
+                	<li>1/4 de taza de harina de trigo</li>
+                	<li>1/4 de cucharadita de bicarbonato de sodio</li>
+                	<li>Aceite para freír</li>
+                	<li>Agua</li>
+            	</ul>
+            	<h4>Ingredientes para el Relleno</h4>
+            	<ul>
+                	<li>1 taza de garbanzos cocidos</li>
+                	<li>1/2 taza de semillas de granada</li>
+                	<li>1/2 taza de yogur natural</li>
+                	<li>1/4 de taza de cebolla picada</li>
+                	<li>2 cucharadas de cilantro fresco picado</li>
+                	<li>1 cucharadita de comino en polvo</li>
+                	<li>1 cucharadita de chaat masala</li>
+                	<li>Sal al gusto</li>
+                	<li>Pimienta negra al gusto</li>
+                	<li>1 cucharada de jugo de limón</li>
+            	</ul>
+            	<h3>Elaboración paso a paso para preparar la receta</h3>
+            	<h4>Preparación del Fuchka</h4>
+            	<ol>
+                	<li>Mezcla sémola de trigo, harina de trigo y bicarbonato de sodio en un bol.</li>
+                	<li>Añade agua poco a poco y amasa hasta obtener una masa suave.</li>
+                	<li>Divide la masa en bolitas pequeñas.</li>
+                	<li>Calienta el aceite en una sartén profunda.</li>
+                	<li>Fríe las bolitas hasta que estén infladas y doradas. Retíralas y escúrrelas sobre papel absorbente.</li>
+            	</ol>
+            	<h4>Preparación del Relleno</h4>
+            	<ol>
+                	<li>En un bol, mezcla los garbanzos cocidos, las semillas de granada, la cebolla picada y el cilantro.</li>
+                	<li>Incorpora el yogur natural, el comino en polvo, el chaat masala, la sal, la pimienta negra y el jugo de limón. Mezcla bien.</li>
+            	</ol>
+        	</article>
+    	</section>
+	</main>
+
+	<footer>
+    	<p>&copy; 2024 Recetas del Chef Abid</p>
+	</footer>
+</body>
+</html>

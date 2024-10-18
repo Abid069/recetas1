@@ -1,0 +1,41 @@
+/* Estilos generales */
+body {
+	background-color: #f9f9f9; /* Color de fondo */
+	font-family: Arial, sans-serif;
+	color: #333; /* Color de texto */
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+/* Selector de elementos y clases */
+h2 {
+	color: #006400; /* Color verde */
+	font-weight: bold;
+}
+
+h3, h4 {
+	color: #0056b3; /* Color azul */
+}
+
+/* Estilo para la lista */
+ul, ol {
+	list-style-type: disc; /* Tipo de lista */
+	margin-left: 20px;
+}
+
+/* Estilo para el pie de página */
+footer {
+	background-color: #eee; /* Color de fondo del pie */
+	padding: 10px;
+	text-align: center; /* Alineación centrada */
+}
+
+/* Selector de clase (ejemplo) */
+.parrafo-destacado {
+	font-weight: bold; /* Negr
